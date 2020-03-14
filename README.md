@@ -1,5 +1,16 @@
 # HT Videos
-## Baixe o projeto
+### Projeto realizado pelos alunos durante o curso Fábrica de Programador, o desafio proposto foi desenvolver uma aplicação que se parecesse com a Netflix, utilizando as tecnologias lecionadas no curso.
+
+> #### ```Tecnologias utilizadas:```
+> * Vue.js
+> * VueX
+> * Vuetify
+> * NodeJs
+
+# Resultado do Projeto
+> ### https://ht-videos.herokuapp.com/
+
+# Baixe o projeto
 
 ###  ```Direto do repositorio do Fabrica de Programador```.
 
